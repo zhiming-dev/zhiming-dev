@@ -10,7 +10,7 @@ Welcome! My ![Visitor Count](https://profile-counter.glitch.me/zhiming-dev/count
 - ☕ Come coffee chat with me! **dev@iowt-now.com**
 - ✅ **I build instead of buy**
 - 🌐 Checkout my **[Internet of Weird Things](https://www.iowt-now.com/)**
-- 🔗 Connect with me on **[LinkedIn](https://xxxxx.iowt-now.com/)**
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/zhimingdai/)**
 
 
 ## Stats
