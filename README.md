@@ -1,16 +1,20 @@
-## Hi there 👋
+# <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="50"> Oh hello there~ 
 
-<!--
-**zhiming-dev/zhiming-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! My ![Visitor Count](https://profile-counter.glitch.me/zhiming-dev/count.svg) visitor
 
-Here are some ideas to get you started:
+## Meet zhiming-dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐝 Pursuing M.S. in Electrical and Computer Engineering at **Georgia Tech**
+- ⛅ Summer 2024 Interning at **Cloudflare**
+- 🏂 Come join me **Snowboarding** in the mountains every winter!
+- ☕ Come coffee chat with me! **dev@iowt-now.com**
+- ✅ **I build instead of buy**
+- 🌐 Checkout my **[Internet of Weird Things](https://www.iowt-now.com/)**
+- 🔗 Connect with me on **[LinkedIn](https://xxxxx.iowt-now.com/)**
+
+
+## Stats
+<p><img src="https://github-readme-stats.vercel.app/api?username=zhiming-dev&theme=radical&hide_rank=true" alt="zhiming-dev" /></p>
+
+
+
