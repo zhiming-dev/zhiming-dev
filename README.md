@@ -10,8 +10,8 @@ Welcome! My ![Visitor Count](https://profile-counter.glitch.me/zhiming-dev/count
 
 ## Meet zhiming-dev
 
-- 🐝 Graduated from **Georgia Tech** with **M.S. in Electrical and Computer Engineering**
-- ⛅ Summer 2024 Interning at **Cloudflare**
+- ☕️ **Software Engineer at Microsoft**
+- 🐝 **M.S. in Electrical and Computer Engineering** from **Georgia Tech** 
 - 🏂 Come join me **Snowboarding** in the mountains every winter!
 - ☕ Come coffee chat with me! **dev@iowt-now.com**
 - ✅ **I build instead of buy**
